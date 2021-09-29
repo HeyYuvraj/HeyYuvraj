@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Verma</h1>
-<h3 align="center">A passionate Developer and Gamer from India</h3>
+<h3 align="center">A passionate YouTuber, Developer and Gamer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyyuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="heyyuvraj" /> </p>
 
