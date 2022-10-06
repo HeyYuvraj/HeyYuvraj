@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://yuvrajverma.com](https://yuvrajverma.com)
 
-- 📫 How to reach me **hello@yuvrajverma.in**
+- 📫 How to reach me **workforyuvrajverma@gmail.com**
 
 - ⚡ Fun fact **I love to play Valorant & Minecraft**
 
